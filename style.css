@@ -1,0 +1,50 @@
+h1{
+    color:red
+    
+}
+*{
+    border:initial
+   
+}
+h2{
+    color:red
+}
+
+body{
+    background-color: gold;
+}
+.header{
+    background-color: steelblue;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    border: 9.5px solid lightgreen;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+   
+        
+}
+ .react{
+      width: 250px; 
+    text-align: center;
+     float: left; 
+     
+    
+}
+
+div.react div{
+    width:inherit;
+    cursor:pointer;  
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    text-align: center;
+    width: 30%;
+    
+  }
